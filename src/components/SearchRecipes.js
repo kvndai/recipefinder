@@ -20,7 +20,6 @@ class SearchRecipes extends Component {
 
     fetch(url, {
       method: 'GET',
-
     })
     .then(response => response.json())
     .then(json => {
