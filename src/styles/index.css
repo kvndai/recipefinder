@@ -34,6 +34,12 @@ body {
   margin-right: 15px;
 }
 
+.link {
+  position: absolute;
+  left: 30px;
+  top: 30px;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
